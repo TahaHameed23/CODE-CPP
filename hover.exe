@@ -1,0 +1,34 @@
+# 1 "D:\\taha\\hover.html"
+# 1 "D:\\taha//"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 1 "D:\\taha\\hover.html"
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.btn {
+  background-color: #ddd;
+  border: none;
+  color: black;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition: 0.3s;
+}
+
+.btn:hover {
+  background-color: #3bc23f;
+  color: white;
+}
+</style>
+</head>
+<body>
+<h2>Fading Buttons - "Fade in Effect"</h2>
+<iframe src="s837.wac.edgecastcdn.net./192.229.173.207" title="">w3school </iframe>
+<button class="btn">Hover Over Me</button>
+
+</body>
+</html>
