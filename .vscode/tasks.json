@@ -3,12 +3,12 @@
         {
             "type": "cppbuild",
             "label": "C/C++: cpp.exe build active file",
-            "command": "C:\\MinGW\\bin\\cpp.exe",
+            "command": "C:/MinGW/bin/cpp.exe",
             "args": [
                 "-g",
                 "${file}",
                 "-o",
-                "${fileDirname}\\${fileBasenameNoExtension}.exe"
+                "${fileDirname}/${fileBasenameNoExtension}.exe"
             ],
             "options": {
                 "cwd": "${fileDirname}"
@@ -27,7 +27,7 @@
                 "-g",
                 "${file}",
                 "-o",
-                "${fileDirname}\\${fileBasenameNoExtension}.exe"
+                "${fileDirname}/${fileBasenameNoExtension}.exe"
             ],
             "options": {
                 "cwd": "C:/MinGW/bin"
