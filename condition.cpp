@@ -1,10 +1,10 @@
 #include<iostream>
 using namespace std;
 int main(){
-    int i;
-    int j;
+    int i,j;
     cin>>i;
-    printf("%d",i);
+    if(i>j)
+        printf("%d",i);
 
 return 0;
 
